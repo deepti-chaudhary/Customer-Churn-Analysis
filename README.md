@@ -1,2 +1,14 @@
 # Customer-Churn-Analysis
-To perform 'Customer Churn Analysis' and identify factors influencing customer retention and churn using demographic insights, contract and service usage patterns, revenue and customer value, and churn risk segmentation.
+
+## Objective:
+To perform 'Customer Churn Analysis' and identify factors influencing customer retention and churn using:
+- Demographic insights
+- Contract and service usage patterns
+- Revenue and customer value
+- Churn risk segmentation
+
+## Tools Used:
+- **Power BI Desktop**
+- **Microsoft Excel** (for cleaning & formatting)
+- **JupyterLite** + **Python** (for ROC/AUC model evaluation)
+- **VS Code** (for Python modeling)
