@@ -14,7 +14,7 @@ To perform 'Customer Churn Analysis' and identify factors influencing customer r
 - **VS Code** (for Python modeling)
 
 ## Dashboard Pages Overview
-### 📍 Page 1 – Executive Summary
+#### 📍 Page 1 – Executive Summary
 - Total Customers
 - Churned Customers
 - Churn Rate (%)
@@ -22,24 +22,24 @@ To perform 'Customer Churn Analysis' and identify factors influencing customer r
 - Average Customer LTV
 - Churn by Gender, Contract Type, Tenure Group
 
-### 📍 Page 2 – Service Usage Insights
+#### 📍 Page 2 – Service Usage Insights
 - Online Security vs Churn
 - Tech Support vs Churn
 - Phone Service vs Churn
 - Churn by Senior Citizen, Internet Service
 
-### 📍 Page 3 – Revenue Trends
+#### 📍 Page 3 – Revenue Trends
 - Monthly Charges Distribution by Churn
 - Average Customer Lifetime Value (LTV) by Churn
 - Total Revenue by Churn
 
-### 📍 Page 4 – Risk Segmentation
+#### 📍 Page 4 – Risk Segmentation
 - Churn Risk Flag vs Churn
 - Churn by Contract Type
 - Churn by Payment Method
 - Churn by Contract & Payment Method (Matrix)
 
-### 📍 Page 5 – Interactive Exploration
+#### 📍 Page 5 – Interactive Exploration
 - Slicers for:
   - Gender
   - Senior Citizen
@@ -54,30 +54,30 @@ To perform 'Customer Churn Analysis' and identify factors influencing customer r
 - All visuals filter dynamically
 
 ## Key Insights
-### Contract Duration Impacts Churn
+#### 1. Contract Duration Impacts Churn
 - Customers on month-to-month contracts have the highest churn rate, whereas 1-year and 2-year contracts show significantly lower churn, indicating that long-term commitments help reduce churn.
 
-### Tenure is Strongly Linked to Loyalty
+#### 2. Tenure is Strongly Linked to Loyalty
 - Customers with less than 1 year of tenure churn the most.
 - Those with 2–6 years of tenure demonstrate higher retention, showing that customer longevity builds loyalty.
 
-### Gender Has Little Effect on Churn
+#### 3. Gender Has Little Effect on Churn
 - The churn rate is almost evenly distributed between male and female customers, meaning gender does not significantly influence churn behavior.
 
-### Service Usage Affects Retention
+#### 4. Service Usage Affects Retention
 - Lack of Online Security and no Tech Support are strong indicators of churn.
 - Customers with multiple services are more likely to stay.
 
-### Higher Paying Customers Churn More
+#### 5. Higher Paying Customers Churn More
 - Customers with higher monthly charges tend to churn more, which may indicate pricing dissatisfaction or low perceived value.
 
-### Churn Impacts Customer Lifetime Value (LTV)
+#### 6. Churn Impacts Customer Lifetime Value (LTV)
 - Churned users have a lower average LTV than retained users, suggesting that valuable customers are being retained better.
 
-### Churn Risk Flag is a Reliable Metric
+#### 7. Churn Risk Flag is a Reliable Metric
 - The ChurnRiskFlag aligns closely with actual churn behavior, validating it as a useful predictive tool for identifying at-risk users.
 
-### Payment Method Influences Churn
+#### 8. Payment Method Influences Churn
 - Electronic check users churn the most, while credit card and bank transfer users show higher retention, highlighting the need to incentivize secure, auto-payment options.
 
 ## Dashboard (Screenshots)
