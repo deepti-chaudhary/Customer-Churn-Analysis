@@ -85,7 +85,7 @@ To perform 'Customer Churn Analysis' and identify factors influencing customer r
 ## Files Included
 
 - `Customer_Churn_Dashboard.pbix` – Main Power BI file
-- `churn_data.csv` – Cleaned dataset used
+- `cleaned_churn-data.csv` – Cleaned dataset used
 - `README.md` – This file
 - `Images/` – Folder for screenshots
 
