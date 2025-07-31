@@ -81,6 +81,11 @@ To perform 'Customer Churn Analysis' and identify factors influencing customer r
 - Electronic check users churn the most, while credit card and bank transfer users show higher retention, highlighting the need to incentivize secure, auto-payment options.
 
 ## Dashboard (Screenshots)
+<img width="1652" height="956" alt="Screenshot 2025-07-31 162624" src="https://github.com/user-attachments/assets/51456e0b-bb41-4a57-b359-967f902ea1df" />
+<img width="1657" height="957" alt="Screenshot 2025-07-31 162648" src="https://github.com/user-attachments/assets/7bb84c67-7a9b-44af-a8bc-53c3d1beeefc" />
+<img width="1653" height="951" alt="Screenshot 2025-07-31 162702" src="https://github.com/user-attachments/assets/5f2be453-c113-4d01-a5e0-1198e4d7ba89" />
+<img width="1655" height="952" alt="Screenshot 2025-07-31 162718" src="https://github.com/user-attachments/assets/488a778c-c573-434c-bbd4-ea21b2fded89" />
+<img width="1651" height="950" alt="Screenshot 2025-07-31 162733" src="https://github.com/user-attachments/assets/7d3341d6-ad92-4927-b9fe-254a8c903e08" />
 
 ## Files Included
 
@@ -93,4 +98,4 @@ To perform 'Customer Churn Analysis' and identify factors influencing customer r
 I’m a data analyst skilled in Power BI, Excel, SQL, and Python. This is part of my end-to-end portfolio showcasing real-world business problem-solving using analytics tools.
 
 ## Connect
-- [LinkedIn](www.linkedin.com/in/deepti-chaudharyy) 
+- [LinkedIn](https://linkedin.com/in/deepti-chaudharyy) 
