@@ -8,7 +8,7 @@ To perform 'Customer Churn Analysis' and identify factors influencing customer r
 - Churn risk segmentation
 
 ## Tools Used:
-- **Power BI Desktop**
+- Power BI Desktop
 - **Microsoft Excel** (for cleaning & formatting)
 - **JupyterLite** + **Python** (for ROC/AUC model evaluation)
 - **VS Code** (for Python modeling)
